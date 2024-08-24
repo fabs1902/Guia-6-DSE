@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 6\\bicliotecadocker\\bicliotecadocker\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78DC94A-6EC0-4E45-8E69-BC6BE422730A}|BicliotecaDocker\\BicliotecaDocker.csproj|solutionrelative:bicliotecadocker\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\appsettings.json",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\appsettings.json",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\appsettings.json",
+              "RelativeToolTip": "BicliotecaDocker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T16:29:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\docker-compose.yml",
+              "RelativeToolTip": "BicliotecaDocker\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-24T16:29:21.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Dockerfile",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Dockerfile",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Dockerfile",
+              "RelativeToolTip": "BicliotecaDocker\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T16:28:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Models\\Libro.cs",
+              "RelativeToolTip": "BicliotecaDocker\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:21:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Models\\Categoria.cs",
+              "RelativeToolTip": "BicliotecaDocker\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:21:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Models\\Autor.cs",
+              "RelativeToolTip": "BicliotecaDocker\\Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:21:05.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "BicliotecaDocker\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:13:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "BicliotecaDocker\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswF4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:13:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "BicliotecaDocker\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 6\\BicliotecaDocker\\BicliotecaDocker\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "BicliotecaDocker\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:12:53.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
